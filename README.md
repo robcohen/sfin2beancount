@@ -1,0 +1,1 @@
+# sfin2beancount
