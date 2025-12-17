@@ -1,0 +1,7 @@
+#!/usr/bin/env python3
+"""SimpleFIN to Beancount converter."""
+
+from sfin2beancount import main
+
+if __name__ == '__main__':
+    main()
